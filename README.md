@@ -1,6 +1,6 @@
 # 纸上红楼
 
-解压完整的 Windows 游戏包，保留 `纸上红楼.exe` 和 `chapters` 文件夹在同一目录，双击 `纸上红楼.exe` 启动。需要 Windows 10／11（64 位）和支持 Vulkan 的显卡及驱动。薄命司和十二章均可离线游玩。
+请前往 [Releases 页面](https://github.com/lil4notfound/Dreams-Between-Pages/releases/latest)，在 **Assets** 中下载 `Dreams-Between-Pages-Windows.zip`。完整解压后，确保 `纸上红楼.exe` 和 `chapters` 文件夹在同一目录，双击 `纸上红楼.exe` 即可开始游戏。需要 Windows 10／11（64 位）和支持 Vulkan 的显卡及驱动。薄命司和十二章均可离线游玩。
 
 ## 游玩流程
 
